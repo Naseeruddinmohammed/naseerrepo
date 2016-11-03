@@ -1,3 +1,4 @@
 Hello, world!
 Hi I was changed in master
 Hi I was changed in master
+From branch1 
